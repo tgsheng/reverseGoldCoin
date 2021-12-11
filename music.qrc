@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/prefix2">
+        <file>resource/music/BackButtonSound.wav</file>
+        <file>resource/music/ConFlipSound.wav</file>
+        <file>resource/music/LevelWinSound.wav</file>
+        <file>resource/music/TapButtonSound.wav</file>
+    </qresource>
+</RCC>
